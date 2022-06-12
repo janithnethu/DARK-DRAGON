@@ -1,5 +1,5 @@
 # DARK-DRAGON
-<div align="center"><h1>❖❖❖❖❖   𝐃𝐀𝐑𝐊 𝐃𝐑𝐀𝐆𝐎𝐍   ❖❖❖❖❖</h1><a href="https://github.com/janithnethu/DARK-DRAGON"><img src="" width="250" height="250"></a><h3>✬✬ 𝙳𝙰𝚁𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<div align="center"><h1>❖❖❖❖❖   𝐃𝐀𝐑𝐊 𝐃𝐑𝐀𝐆𝐎𝐍   ❖❖❖❖❖</h1><a href="https://github.com/janithnethu/DARK-DRAGON">< width="250" height="250"></a><h3>✬✬ 𝙳𝙰𝚁𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 
 ***
