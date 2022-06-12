@@ -8,14 +8,6 @@
 
 ***
 
-# How To Deploy And Deploy Password
-<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/20210814_230626.png" width="500" ></a></div>
-
-
-***
-> scan  QR Code ✏
+# scan  QR Code ✏
 <div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
----
-> Deploy Your Bot On Heroku ✏
-<getqr
