@@ -30,14 +30,14 @@
 
 > Now Copy This Url https://heroku.com/deploy?template=https://github.com/ravindu01manoj/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
 
-> Now Deploy Sew Queen With Your Own Url.
+> Now Deploy 𝙳𝙰𝚁𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 With Your Own Url.
 
 > more ... ↓↓↓
 
 <div align="left"><a href="https://youtu.be/H_er-5qdFMM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/sewqueenimg/yt.jpg" width="150" ></a></div>
 
 ***
-<div aline='left'><h2> SEW QUEEN TEAM </h2></div>
+<div aline='left'><h2> 𝙳𝙰𝚁𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 𝚃𝙴𝙰𝙼 </h2></div>
 
 ***
 
@@ -46,7 +46,7 @@
 
 
 ***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+<div align="center"><h1>✬✬ 𝙳𝙰𝚁𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
 
 ***
 > [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Commands)
@@ -64,25 +64,5 @@
 ***
 > Another Way To Get Qr ✏
 
-# You Can Get Qr Easily Using Another Sew Queen Bot
+# You Can Get Qr Easily Using Another 𝗗𝗮𝗿𝗸 𝗗𝗿𝗮𝗴𝗼𝗻 Bot
 # Get Qr As Image To Use .getqr
-
-> termux code for qr✏
-
-
-```
-$ pkg upgrade && pkg update
-$ pkg install nodejs && pkg install git
-```
-
-```
-$ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
-$ cd qr
-$ npm i
-$ node sew.js
-
-```
-```
-$ cd qr
-$ node sew.js
-```
