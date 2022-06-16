@@ -9,5 +9,5 @@
 ***
 
 # scan  QR Code ✏
-<div align="left"><a href="https://replit.com/@janithnethu/DARK-DRAGON-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/join/kgjwhlswpr-janithnethu"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
