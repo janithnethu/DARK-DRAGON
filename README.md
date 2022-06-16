@@ -4,7 +4,7 @@
 
 ***
 
-<p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logoalign="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
+<p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logoalign="center"><img src="https://profile-counter.glitch.me/janithnethu/count.svg" /><br>Profile Viewers</div>
 
 ***
 
