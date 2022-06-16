@@ -4,10 +4,10 @@
 
 ***
 
-<p align="center"><a href="httsp://github.com/ravindu01manoj/Sew-Queen"><img src="https://img.shields.io/docker/pulls/ravindu01manoj/sewqueen?style=for-the-badge&logoalign="center"><img src="https://profile-counter.glitch.me/janithnethu/count.svg" /><br>Profile Viewers</div>
+<p align="center"><a href="httsp://github.com/janithnethu/DARK-DRAGON"><img src="https://img.shields.io/docker/pulls/janithnethu/DARKDRAGON?style=for-the-badge&logoalign="center"><img src="https://profile-counter.glitch.me/janithnethu/count.svg" /><br>Profile Viewers</div>
 
 ***
 
 # scan  QR Code ✏
-<div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@janithnethu/DARK-DRAGON-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
